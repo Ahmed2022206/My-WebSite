@@ -1,0 +1,52 @@
+body {
+  background-color: #fecea8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ff847c;
+  border-width: 5px;
+
+  width: 100%;
+}
+
+h1 {
+  color: #e84a5f;
+  font-style: italic;
+  font-family: cursive;
+}
+
+h3 {
+  color: #e84a5f;
+  font-style: italic;
+  font-family: cursive;
+}
+
+h2 {
+  color: #e84a5f;
+  font-style: italic;
+  font-family: cursive;
+}
+
+
+p{
+  font-style: italic;
+  font-family: cursive;
+}
+
+table {
+  color: #e84a5f;
+  font-style: italic;
+  font-family: cursive;
+}
+
+ol {
+  font-style: italic;
+  font-family: cursive;
+}
+
+a {
+  font-style: italic;
+  font-family: cursive;
+}
